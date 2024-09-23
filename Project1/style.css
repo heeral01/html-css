@@ -54,6 +54,12 @@ footer ul li{
 }
 footer a{
     padding-top: 20px;
-    font-size: 30px;
+    font-size: 20px;
+    text-decoration: none;
     
+}
+footer p{
+    padding-top: 20px;
+    font-size: 20px;
+    text-align-last: right;
 }
