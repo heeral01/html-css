@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+
+main{
+    background-color: rgb(245, 191, 245);
+    padding-left: 250px;
+    padding-right: 250px;
+    border: 8px solid black;
+}
+
+section{
+    padding-top: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+section img{
+   
+    height: 400px;
+    border-radius: 200px;
+
+}
+
+section .named h1{
+    padding-top: 100px;
+    font-size: 70px;
+}
+section .named h3{
+    text-align-last: right;
+}
+
+article h3{
+    font-size: 60px;
+    padding-top: 40px;
+}
+
+article p{
+  text-align: justify;
+  padding-top: 50px;
+
+}
+footer h1{
+    padding-top: 30px;
+    font-size: 60px;
+}
+footer ul li{
+    padding-top: 20px;
+    text-align: justify;
+}
+footer a{
+    padding-top: 20px;
+    font-size: 30px;
+    
+}
